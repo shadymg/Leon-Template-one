@@ -116,11 +116,11 @@ header .container {
   transition: all 0.15s;
 }
 .container nav ul li:hover {
-  background-color: var(--main-color);
+  background-color:rgb(44, 71, 85);
   color: #fff;
 }
 .container nav ul li:hover a {
-  color: #fff;
+  color: rgb(113, 96, 64);
 }
 
 @media (max-width: 767px) {
